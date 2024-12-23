@@ -179,8 +179,8 @@ ro.vendor.wfd.iframesize.level=0
 
 # MediaTek
 ro.mediatek.chip_ver=S01
-ro.mediatek.platform=MT6763
-ro.vendor.mediatek.platform=MT6763
+ro.mediatek.platform=MT6765
+ro.vendor.mediatek.platform=MT6765
 ro.vendor.mediatek.version.branch=alps-mp-p0.mp7
 ro.vendor.mediatek.version.release=alps-mp-p0.mp7-V2.23
 
@@ -189,8 +189,8 @@ ro.vendor.mtk_wappush_support=1
 ro.vendor.ap_info_monitor=0
 ro.vendor.wlan.gen=gen2
 ro.vendor.mtk_dhcpv6c_wifi=1
-mediatek.wlan.chip=CONSYS_MT6763
-mediatek.wlan.module.postfix=_consys_mt6763
+mediatek.wlan.chip=CONSYS_MT6765
+mediatek.wlan.module.postfix=_consys_mt6765
 ro.mtk_tetheringipv6_support=1
 
 # Other
