@@ -1,4 +1,3 @@
-# oppo-mt6765-device-tree
 Device tree for OPPO A12/A11k
 ===========================================
 
